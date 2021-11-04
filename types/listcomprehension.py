@@ -1,6 +1,7 @@
 # reference for list comprehensions
 
 # list comprehensions are touted as a standout feature for python
+# basically creates lists based on lists - but with cool uses
 
 # basic syntax
 # <expression> for item in list if <conditional>
