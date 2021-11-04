@@ -28,6 +28,15 @@ def default_param(example='Look!', target='A Shark!'):
 
 default_param()
 
+# function that returns a value
+def add_int(num1, num2):
+    result = num1 + num2
+    return result
+
+print(add_int(5, 5))
+
+
+
 
 
 
