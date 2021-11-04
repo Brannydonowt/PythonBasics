@@ -1,4 +1,4 @@
-# This script will outline key types so that I can understand them and use this script as a reference as needed.
+#reference for numbers
 
 # - A # is used for comments
 
